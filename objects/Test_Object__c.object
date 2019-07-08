@@ -52,6 +52,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>BField__c</fullName>
+        <externalId>false</externalId>
+        <label>BField</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Test Object</label>
     <nameField>
         <label>Test Object Name</label>
