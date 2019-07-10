@@ -58,6 +58,7 @@
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.Cognizant_Demo__c</members>
@@ -204,6 +205,7 @@
         <members>CampaignMember.Title</members>
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.BusinessHoursId</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
@@ -254,6 +256,7 @@
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
         <members>Contact.Department</members>
